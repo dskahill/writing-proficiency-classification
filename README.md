@@ -13,10 +13,7 @@
   - Contents of the Notebooks:
       * Extract-OneStopEnglish: This notebook converts the raw data from the OneStopEnglish Corpus into a structured format.  
       * Extract_EFCAMDAT_XML_to_CSV: This notebook extracties data from the EFCAMDAT dataset, originally in XML format into CSV format followed by some feature engineering and brief EDA.
-
-## Misc
-  - The Misc folder contains various Jupyter notebooks used as a sandbox for testing and refining our feature extraction and modeling processes. Feel free to disregard these files.
-
+   
 ## Model-Notebooks
   - The Model-Notebooks folder contains Jupyter notebooks dedicated to building, training, and evaluating various transformer models on the OneStopEnglish and EFCAMDAT data. 
   - Contents of Notebooks:
@@ -25,6 +22,11 @@
     * EFCAMDAT-Clip-5Class-Augment-Models.ipynb: Uses clipping and data augmentation techniques to improve the performance of models classifying EFCAMDAT data into five classes.
     * EFCAMDAT-Clip-6Class-Augment-Models.ipynb: Same as the 5-class version but focuses on six-class classification with clipping and augmentation.
     * onestopenglish-Models.ipynb: Develops and evaluates models for classifying the OneStopEnglish dataset.
+
+## Misc
+  - The Misc folder contains various Jupyter notebooks used as a sandbox for testing and refining our feature extraction and modeling processes. Feel free to disregard these files.
+
+
 
 
 
