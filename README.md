@@ -1,21 +1,11 @@
 # writing-proficiency-classification
 
-# Data Augmentation
+# Analysis-Notebooks 
+  - 
 
-# EDA
+# Data-Notebooks
 
-# Baseline Model(Logistic Regression)
+# Misc
 
-# BERT Model
+# Model-Notebooks
 
-# RoBERTa-CNN-LSTM Model
-
-# RoBERTa-CNN-GRU Model
-
-# RoBERTa 2 step/3 step
-
-# Model Comparision
-
-# LIME Model Explainability
-
-# LLM Explainability
